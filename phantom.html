@@ -13,7 +13,7 @@
 
 <br>
 
-<input type="button" value="Phantoneate!!!" onclick="abrirPhantomLogin()">
+<input id="btnConectar" type="button" value="Phantoneate!!!" onclick="abrirPhantomLogin()">
 
 </center>
 </body>
@@ -34,9 +34,16 @@ const getProvider = () => {
 };
 
 //2.- Mostramos la conexion al dar click
-const provider = getProvider(); // see "Detecting the Provider"
-function abrirPhantomLogin() {
+const provider = null; // see "Detecting the Provider"
+
+var btnConectar = document.getElementById("btnConectar");
+
+btnConectar.onclick = async() => {
+  //await abrirPhantomLogin();
   //Sin identificar el proveedor: window.phantom.solana.connect();
+  //Identificando el proveedor
+  provider = getProvider();
+  
   try {
     const resp = await provider.connect();
     console.log(resp.publicKey.toString());
@@ -45,4 +52,5 @@ function abrirPhantomLogin() {
     // { code: 4001, message: 'User rejected the request.' }
   }
 }
+
 </script>
