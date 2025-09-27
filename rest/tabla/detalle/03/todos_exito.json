@@ -1,0 +1,17 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"Pendiente"
+        },
+        {
+            "cod":"02",
+            "nom":"Sin Exito"
+        },
+        {
+            "cod":"03",
+            "nom":"Ganadora"
+        }
+    ]
+}

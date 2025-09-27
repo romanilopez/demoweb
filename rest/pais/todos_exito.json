@@ -1,0 +1,25 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"Peru"
+        },
+        {
+            "cod":"02",
+            "nom":"Colombia"
+        },
+        {
+            "cod":"03",
+            "nom":"Ecuador"
+        },
+        {
+            "cod":"04",
+            "nom":"Venezuela"
+        },
+        {
+            "cod":"05",
+            "nom":"Brasil"
+        }
+    ]
+}

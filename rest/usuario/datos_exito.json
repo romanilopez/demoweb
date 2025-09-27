@@ -1,0 +1,33 @@
+{
+    "cod":"00",
+    "obj":{
+        "cod":1,
+        "nom":"Carlos",
+        "ape":"Quispe",
+        "cor":"carlos.quispe@minedu.gob.pe",
+        "cel":"9999999999",
+        "tdc":{
+            "cod":"1",
+            "nom":"DNI"
+        },
+        "ndc":"12345678",
+        "fnc":"01/01/2000",
+        "dir":"Calle. Los Aliso 123",
+        "pai": {
+            "cod":"1",
+            "nom":"Peru"
+        },
+        "dep": {
+            "cod":"1",
+            "nom":"Lima"
+        },
+        "prv": {
+            "cod":"1",
+            "nom":"Lima"
+        },
+        "dis": {
+            "cod":"1",
+            "nom":"Lima"
+        }
+    }
+}

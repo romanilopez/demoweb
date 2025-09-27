@@ -1,0 +1,29 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"Piura"
+        },
+        {
+            "cod":"02",
+            "nom":"Ayabaca"
+        },
+        {
+            "cod":"03",
+            "nom":"Huancabamba"
+        },
+        {
+            "cod":"04",
+            "nom":"Morropon"
+        },
+        {
+            "cod":"05",
+            "nom":"Paita"
+        },
+        {
+            "cod":"06",
+            "nom":"Sechura"
+        }
+    ]
+}

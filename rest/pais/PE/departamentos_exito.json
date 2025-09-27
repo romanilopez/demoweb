@@ -1,0 +1,29 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"Lima"
+        },
+        {
+            "cod":"02",
+            "nom":"Piura"
+        },
+        {
+            "cod":"03",
+            "nom":"Lambayeque"
+        },
+        {
+            "cod":"04",
+            "nom":"La Libertad"
+        },
+        {
+            "cod":"05",
+            "nom":"Ancash"
+        },
+        {
+            "cod":"06",
+            "nom":"LiTumbes"
+        }
+    ]
+}

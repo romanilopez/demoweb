@@ -1,0 +1,13 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"Masculino"
+        },
+        {
+            "cod":"02",
+            "nom":"Femenino"
+        }
+    ]
+}

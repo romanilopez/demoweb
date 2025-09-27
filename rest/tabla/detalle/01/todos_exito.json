@@ -1,0 +1,21 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"DNI"
+        },
+        {
+            "cod":"02",
+            "nom":"RUC"
+        },
+        {
+            "cod":"03",
+            "nom":"Carnet de Extranjeria"
+        },
+        {
+            "cod":"04",
+            "nom":"Pasaporte"
+        }
+    ]
+}

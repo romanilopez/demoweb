@@ -1,0 +1,38 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":1,
+            "sor":{
+                "cod":1,
+                "nom":"MEGA RIFA DE MITSUBISHI MONTERO DAKAR 2008 y 3 MOTOS 0KM"
+            },
+            "est":{
+                "cod":1,
+                "nom":"Pendiente"
+            }
+        },
+        {
+            "cod":2,
+            "sor":{
+                "cod":2,
+                "nom":"RIFA 3 MOTOS 0KM"
+            },
+            "est":{
+                "cod":3,
+                "nom":"Ganador"
+            }
+        },
+        {
+            "cod":3,
+            "sor":{
+                "cod":3,
+                "nom":"RIFA 3 SCOOTER"
+            },
+            "est":{
+                "cod":2,
+                "nom":"Sin Exito"
+            }
+        }
+    ]
+}

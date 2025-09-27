@@ -1,0 +1,17 @@
+{
+    "cod":"00",
+    "obj":[
+        {
+            "cod":"01",
+            "nom":"Tipos de Documento"
+        },
+        {
+            "cod":"02",
+            "nom":"Sexo"
+        },
+        {
+            "cod":"03",
+            "nom":"Estado de la Jugada"
+        }
+    ]
+}
